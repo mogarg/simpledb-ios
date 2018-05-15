@@ -1,6 +1,6 @@
-# simpledb-ios
+# GPA Calculator 
 
-SimpleDB implementation on iOS with AWS Mobile SDKv2
+A simple GPA calculator to explore AWS Mobile SDKv2 for iOS. 
 
 The iOS application works as a GPA calculator. 
 
